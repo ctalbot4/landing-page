@@ -36,6 +36,15 @@ img {
     flex-shrink: 3;
 }
 
+.header-container a {
+    text-decoration: none;
+    color: white;
+}
+
+.header-container a:hover {
+    color: #c7c7c7;
+}
+
 .right-links {
     gap: 15px;
     color: #E5E7EB;
