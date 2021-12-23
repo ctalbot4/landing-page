@@ -9,8 +9,8 @@ body {
     min-width: 40em;
 }
 
-body > div {
-    fjdf
+img {
+    width: 200px;;
 }
 
 .header-container, .left-text, .right-links {
@@ -70,6 +70,7 @@ body > div {
 .left-container {
     display: flex;
     flex-flow: column;
+    gap: 10px;
 }
 
 .left-container .main-text {
@@ -90,7 +91,7 @@ body > div {
     font-weight: 700;
     border-radius: 5px;
     border: none;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .container-one img {
